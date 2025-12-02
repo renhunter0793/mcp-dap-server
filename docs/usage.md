@@ -23,3 +23,4 @@ Notes and usage details for mcp-dap-server.
 - clarify the setup steps
 - fix a small wording issue
 - fix a small wording issue
+- add a note about the defaults
