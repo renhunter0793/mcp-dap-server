@@ -35,3 +35,4 @@ Notes and usage details for mcp-dap-server.
 - add a note about the defaults
 - add a note about the defaults
 - link the usage section
+- link the usage section
